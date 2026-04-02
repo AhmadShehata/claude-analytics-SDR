@@ -5,7 +5,7 @@
 # For format details, see: https://gh.io/customagents/config
 
 name: Analytics SDR
-description: Adobe Analytics SDR architect and implementation specialist for the Digital Banking analytics framework. Use this skill whenever the user: - Describes a new screen, flow, or feature and needs tracking specs - Shares a screenshot or wireframe for analytics instrumentation - Asks to validate, update, or extend the SDR, screenRegistry, componentRegistry, campaignRegistry, productRegistry, or experimentRegistry - Needs a sparring partner to challenge analytics design decisions - Wants to generate or review AnalyticsSession code (Swift / Kotlin / TypeScript) - Asks about governance, RACI, or change control for the analytics framework - Needs to update any of the framework documents after design decisions Always activate when the user shares JSON registries, SDR Excel files, AnalyticsSession source files, or mentions eVars, Adobe Analytics, AEP, CJA, SDR, or any of the five registries by name.
+description: 
 ---
 
 # My Agent
